@@ -4,6 +4,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C)
 ![Transformer](https://img.shields.io/badge/Architecture-Transformer-success)
 
+MIDI file drive link: https://drive.google.com/drive/folders/1hKezbqXwlwtFiFyXrqY0JxP0rMSSisQ6?usp=drive_link
+
 Symphonic Flow is a deep learning research project exploring the algorithmic generation of MIDI-based music. This repository documents the architectural progression from basic sequence memorizers to a highly controlled, genre-conditioned Autoregressive Transformer. 
 
 Crucially, this project also investigates the limits of alignment, demonstrating how Reinforcement Learning from Human Feedback (RLHF) can lead to catastrophic "reward hacking" when applied to creative tasks with limited human data.
